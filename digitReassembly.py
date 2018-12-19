@@ -1,6 +1,4 @@
-# Ronoy Sarkar, PHS SMCS
-# Grade 10, Works in Python 2.7
-
+# Works in Python 2.7
 def digit_reassembly(number,places):
 
     origString = str(number);
